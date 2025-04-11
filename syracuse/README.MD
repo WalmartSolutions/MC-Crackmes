@@ -37,7 +37,7 @@
 <summary><strong>🚩 1st Hint</strong></summary>  
 
 1. **URL References:**  
-   - Search for ```java/net/URL``` reference. Pay attention to the member names and the method it self that invokes it.  
+   - Search for ```java/net/URL``` reference. Pay attention to the member names and the method's name it self that invokes it.  
 </details>  
 
 <details>  

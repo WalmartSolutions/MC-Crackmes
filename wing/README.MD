@@ -9,7 +9,7 @@
 ## 📌 Basic Information  
 - **Minecraft Version:** `1.19.4`  
 - **Loader:** `Fabric`  
-- **Difficulty:** `1/10` (Beginner)  
+- **Difficulty:** `2/10` (Beginner)  
 - **Required Mods:**  
   - [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.19.4)  
 

@@ -2,8 +2,6 @@
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
-Here’s a revised version with improved grammar, structure, and clarity while retaining the original intent:  
-
 ---  
 **Welcome to Our Reverse Engineering & Cracking Training Repository!**  
 

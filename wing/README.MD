@@ -30,7 +30,7 @@
 <details>  
 <summary><strong>🚩 1st Hint</strong></summary>  
 
-1. **Authentication Bypass:**  
+1. **Authentication System:**  
    - The client uses offline-mode auth (no server checks).  
 </details>  
 

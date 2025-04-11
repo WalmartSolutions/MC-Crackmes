@@ -21,8 +21,12 @@
 3. Launch Minecraft with Fabric.
 
 **Verification:**  
-- Success: Client fully loads into game without errors.  
-- Failure: Crashes your game.  
+- 🏆 Success: Client fully loads into game without errors.  
+- 🔒 Failure: Crashes your game.  
+
+**Protection:**  
+- 🧬 Obfuscation: ❌ 
+- ⏰ Verification Timing: Initialization
 
 ---
 

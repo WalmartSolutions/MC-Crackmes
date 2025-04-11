@@ -30,21 +30,21 @@
 <details>  
 <summary><strong>🚩 1st Hint</strong></summary>  
 
-1. **Auth Package:**
+1. **Auth package:**
    - ```me.steinborn.krypton.api.auth```
 </details>  
 
 <details>  
 <summary><strong>🚩 2nd Hint</strong></summary>  
 
-2. **HWID Whitelist:**  
+2. **HWID whitelist:**  
    - Search for string contains "pastebin" (Find the correct link, there are 2 with different purpose each).  
 </details>
 
 <details>  
 <summary><strong>🚩 3rd Hint</strong></summary>  
 
-3. **Spoofing:**  
+3. **Spoofing values:**  
    - Spoof the fields/variables with your own infromation (UserInstance.class).
 </details>  
 

@@ -28,30 +28,20 @@
 
 ## 🔍 Hints (Click to Reveal)  
 <details>  
-<summary><strong>🚩 1st Hint</strong></summary>  
+<summary><strong>🚩 Need a nudge? Click here!</strong></summary>  
 
+1. **Authentication Bypass:**  
+   - The client uses offline-mode auth (no server checks).  
 
-   **Authentication Bypass:**  
-   - The client uses offline-mode auth (no server checks).
-</details>
-
-<details>  
-<summary><strong>🚩 2nd Hint</strong></summary>  
-
-
-   **HWID Whitelist:**  
-   - Valid HWIDs are stored in a File:  
-     ```
+2. **HWID Whitelist:**  
+   - Valid HWIDs are stored in:  
+     ```plaintext
      assets/mousetweaks/security.txt  
      ```  
-</details>
 
-<details>  
-<summary><strong>🚩 3rd Hint</strong></summary>  
+3. **HWID Generation:**  
+   - The client fetches HWID using a **PowerShell script** (check runtime commands).  
+</details>  
 
-
-   **HWID Generation:**  
-   - The client fetches HWID using a **PowerShell script**.  
-</details>
 
 ---

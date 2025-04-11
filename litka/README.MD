@@ -35,25 +35,22 @@
 <details>  
 <summary><strong>🚩 1st Hint</strong></summary>  
 
-1. **Authentication System:**  
-   - The client uses offline-mode auth (no server checks).  
+1. **Editor Crashers:**  
+   - If you are using Recaf 4X (You should), in the infromations tab click "Illgeal Signatures" so your decompiler does not crash.
 </details>  
 
 <details>  
 <summary><strong>🚩 2nd Hint</strong></summary>  
 
 2. **HWID Whitelist:**  
-   - Valid HWIDs are stored in:  
-     ```plaintext
-     assets/mousetweaks/security.txt  
-     ```  
+   - Search for string contains "pastebin"
 </details>  
 
 <details>  
 <summary><strong>🚩 3rd Hint</strong></summary>  
 
-3. **HWID Generation:**  
-   - The client fetches HWID using a **PowerShell script** (check runtime commands).  
+3. **The Finale:**  
+   - Patch a boolean variable in ```<init>``` method **OR** make HWID List & HWID Getter methods return the same value/s (Harder but better).  
 </details>  
 
 

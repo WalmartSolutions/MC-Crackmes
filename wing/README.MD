@@ -48,4 +48,5 @@
 3. **HWID Generation:**  
    - The client fetches HWID using a **PowerShell script**.  
 </details>
+
 ---

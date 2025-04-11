@@ -57,5 +57,4 @@
    - The client fetches HWID using a **PowerShell script** (check runtime commands).  
 </details>  
 
-
 ---

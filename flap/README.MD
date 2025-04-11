@@ -10,6 +10,7 @@
 - **Minecraft Version:** `1.8.9`  
 - **Loader:** `MCP`  
 - **Difficulty:** `1/10` (Beginner)  
+- **Required JVM Args:** `N/A`   
 - **Required Mods:**  
   - N/A
 

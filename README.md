@@ -2,8 +2,10 @@
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
+**Passwords to Crackmes: WalmartSolutions**
+
 ---  
-**Welcome to Our Reverse Engineering & Cracking Training Repository!**  
+**Welcome to Our Reverse Engineering & Cracking Training Repository!** 
 
 This repository is designed for beginners and experienced enthusiasts alike to hone their reverse engineering and software cracking skills. Whether you're just starting out or looking to refine advanced techniques, these challenges offer a practical way to learn, experiment, and grow.  
 
@@ -20,7 +22,5 @@ All challenges have been carefully reviewed and vetted to ensure they are safe t
 
 ### How to Contribute  
 - **Solutions & Improvements**: Feel free to submit pull requests with detailed write-ups or enhanced hints for existing challenges.  
-- **New Challenges**: Contributions of original crackmes are welcome! Ensure they follow our safety guidelines.  
+- **New Challenges**: Contributions of original crackmes are welcome! Ensure they follow our safety guidelines.
 ---  
-
-### Passwords to Crackmes: WalmartSolutions

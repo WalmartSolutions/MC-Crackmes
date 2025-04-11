@@ -1,7 +1,7 @@
 <h1 align="center">Flap Client Crackme</h1>
 
 <p align="center">
-  <strong>A beginner-friendly reverse engineering challenge for Minecraft Standalone</strong>
+  <strong>A beginner-friendly reverse engineering challenge for Minecraft Standalone (MCP)</strong>
 </p>
 
 ---

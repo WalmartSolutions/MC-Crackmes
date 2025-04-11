@@ -10,7 +10,7 @@ This repository is designed for beginners and experienced enthusiasts alike to h
 ### Structure & Content  
 - **Client-Based Challenges**: Directories are named after fictional or real-world-inspired "clients." Each represents a unique crackme challenge.  
 - **Challenge Files**: Inside every client directory, you’ll find:  
-  - A target file to analyze or crack.  
+  - A download to a target file to analyze or crack.  
   - A `README.md` file containing:  
     - **Setup Instructions**: Guidance on launching the client, essential for dynamic analysis or verifying your solution.  
     - **Hints/Solutions**: Tips to nudge you in the right direction. Some challenges may include community-contributed solutions if they’ve been solved previously.  

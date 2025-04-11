@@ -2,7 +2,7 @@
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
-**Passwords to Crackmes: WalmartSolutions**
+**Password to Crackmes: WalmartSolutions**
 
 ---  
 **Welcome to Our Reverse Engineering & Cracking Training Repository!** 

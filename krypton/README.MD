@@ -30,26 +30,15 @@
 <details>  
 <summary><strong>🚩 1st Hint</strong></summary>  
 
-1. **Authentication Bypass:**  
-   - The client uses offline-mode auth (no server checks).  
+1. **HWID Whitelist:**  
+   - Search for string contains "pastebin" (Find the correct link, there are 2 with different purpose each).  
 </details>  
 
 <details>  
 <summary><strong>🚩 2nd Hint</strong></summary>  
 
-2. **HWID Whitelist:**  
-   - Valid HWIDs are stored in:  
-     ```plaintext
-     assets/mousetweaks/security.txt  
-     ```  
+2. **Spoofing:**  
+   - Spoof the fields/variables with your own infromation.
 </details>  
-
-<details>  
-<summary><strong>🚩 3rd Hint</strong></summary>  
-
-3. **HWID Generation:**  
-   - The client fetches HWID using a **PowerShell script** (check runtime commands).  
-</details>  
-
 
 ---

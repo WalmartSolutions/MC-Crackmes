@@ -23,4 +23,8 @@ All challenges have been carefully reviewed and vetted to ensure they are safe t
 ### How to Contribute  
 - **Solutions & Improvements**: Feel free to submit pull requests with detailed write-ups or enhanced hints for existing challenges.  
 - **New Challenges**: Contributions of original crackmes are welcome! Ensure they follow our safety guidelines.
+
+### Useful Starting Tools & Documents
+**Recaf - Bytecode editor:** https://github.com/Col-E/Recaf-Launcher <br/>
+**Java Opcode List:** https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions OR https://www.coley.software/Recaf-documentation/use-bytecode-list.html <br/>
 ---  

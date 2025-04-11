@@ -1,10 +1,9 @@
 ---  
 **Basic Info about the client:**
 - 1.19.4 Fabric
+- **Dificulty:** 1/10
 - **Developer:** N/A
 - **Required Mods:** [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.19.4)
-
-**Dificulty:** 1/10
 
 **Hints:**
 1. Auth is offline

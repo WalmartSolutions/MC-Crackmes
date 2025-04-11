@@ -20,11 +20,11 @@ This repository is designed for beginners and experienced enthusiasts alike to h
 ### Safety First  
 All challenges have been carefully reviewed and vetted to ensure they are safe to use. For added security in beginner-friendly crackmes, potential risks like webhooks have been removed to create a safer learning environment **in easier crackmes**.  
 
-### How to Contribute  
-- **Solutions & Improvements**: Feel free to submit pull requests with detailed write-ups or enhanced hints for existing challenges.  
-- **New Challenges**: Contributions of original crackmes are welcome! Ensure they follow our safety guidelines.
-
 ### Useful Starting Tools & Documents
 **Recaf - Bytecode editor:** https://github.com/Col-E/Recaf-Launcher <br/>
 **Java Opcode List:** https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions OR https://www.coley.software/Recaf-documentation/use-bytecode-list.html <br/>
+
+### How to Contribute  
+- **Solutions & Improvements**: Feel free to submit pull requests with detailed write-ups or enhanced hints for existing challenges.  
+- **New Challenges**: Contributions of original crackmes are welcome! Ensure they follow our safety guidelines.
 ---  

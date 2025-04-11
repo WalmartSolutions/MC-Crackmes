@@ -18,7 +18,7 @@
 
 ## 🛠️ Setup Instructions  
 1. **Install Flap**.  
-2. Place the Flap file in your `versions` folder.  
+2. Place the Flap folder in your `versions` folder.  
 3. Launch Minecraft with Flap.
 
 **Verification:**  

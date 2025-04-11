@@ -9,8 +9,8 @@
 ## 📌 Basic Information  
 - **Minecraft Version:** `1.21`  
 - **Loader:** `Fabric`  
-- **Required JVM Args:** `N/A`   
 - **Difficulty:** `2/10` (Beginner)  
+- **Required JVM Args:** `N/A`   
 - **Required Mods:**  
   - [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.21)  
 

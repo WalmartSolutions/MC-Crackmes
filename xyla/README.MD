@@ -1,4 +1,4 @@
-<h1 align="center">Krypton Client Crackme</h1>
+<h1 align="center">Xyla Client Crackme</h1>
 
 <p align="center">
   <strong>A beginner-friendly reverse engineering challenge for Minecraft 1.21 (Fabric)</strong>

@@ -27,4 +27,11 @@ All challenges have been carefully reviewed and vetted to ensure they are safe t
 ### How to Contribute  
 - **Solutions & Improvements**: Feel free to submit pull requests with detailed write-ups or enhanced hints for existing challenges.  
 - **New Challenges**: Contributions of original crackmes are welcome! Ensure they follow our safety guidelines.
+
+### Credits  
+- **3000IQPlay**: Doing all the work
+- **Xenoware**: Syracuse Jar
+- **Ykale**: Wing & Xyla Jar
+- **Labas339**: Litka files
+- **JerkerX**: Flap files
 ---  

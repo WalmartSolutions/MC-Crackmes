@@ -9,7 +9,7 @@
 ## 📌 Basic Information  
 - **Minecraft Version:** `1.21`  
 - **Loader:** `Fabric`  
-- **Difficulty:** `1.5/10` (Beginner)  
+- **Difficulty:** `2/10` (Beginner)  
 - **Required Mods:**  
   - [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.21)  
 
@@ -30,21 +30,21 @@
 <details>  
 <summary><strong>🚩 1st Hint</strong></summary>  
 
-1. **Auth package:**
+1. **Auth Package:**
    - ```me.steinborn.krypton.api.auth```
 </details>  
 
 <details>  
 <summary><strong>🚩 2nd Hint</strong></summary>  
 
-2. **HWID whitelist:**  
+2. **HWID Whitelist:**  
    - Search for string contains "pastebin" (Find the correct link, there are 2 with different purpose each).  
 </details>
 
 <details>  
 <summary><strong>🚩 3rd Hint</strong></summary>  
 
-3. **Spoofing values:**  
+3. **Spoofing Values:**  
    - Spoof the fields/variables with your own infromation (UserInstance.class).
 </details>  
 

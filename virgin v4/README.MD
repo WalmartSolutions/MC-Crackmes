@@ -51,6 +51,6 @@
 
 ## Tutorial
 
-https://github.com/WalmartSolutions/MC-Crackmes/raw/refs/heads/main/virgin%20v4/Tutorial%20(By%20TwoNick).mp4
+![video](https://github.com/WalmartSolutions/MC-Crackmes/raw/refs/heads/main/virgin%20v4/Tutorial%20(By%20TwoNick))
 
 ---

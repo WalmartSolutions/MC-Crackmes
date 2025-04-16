@@ -46,5 +46,5 @@ All challenges have been carefully reviewed and vetted to ensure they are safe t
 - **Ykela**: Wing & Xyla Jar
 - **Labas339**: Litka files
 - **JerkerX**: Flap files
-- **TwoNick**: [Virgin V4](https://github.com/WalmartSolutions/MC-Crackmes/tree/main/virgin_v4) crackme
+- **TwoNick**: [Virgin V4](https://github.com/WalmartSolutions/MC-Crackmes/tree/main/virgin%20v4) crackme
 ---  

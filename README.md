@@ -18,10 +18,22 @@ This repository is designed for beginners and experienced enthusiasts alike to h
     - **Hints/Solutions**: Tips to nudge you in the right direction. Some challenges may include community-contributed solutions if they’ve been solved previously.  
 
 ### Safety First  
-All challenges have been carefully reviewed and vetted to ensure they are safe to use. For added security in beginner-friendly crackmes, potential risks like webhooks have been removed to create a safer learning environment **in easier crackmes**.  
+All challenges have been carefully reviewed and vetted to ensure they are safe to use. For added security in beginner-friendly crackmes, potential risks like webhooks have been removed to create a safer learning environment **in beginner crackmes**.  
+
+### Crackme ranks based on Dificulty:
+- 1–2: Beginner
+
+- 3–4: Intermediate
+
+- 5–6: Proficient
+
+- 7–8: Advanced
+
+- 9–10: Expert
 
 ### Useful Starting Tools & Documents
 **Recaf - Bytecode editor:** https://github.com/Col-E/Recaf-Launcher <br/>
+**IDA (Pro) - Advanced editor (Do NOT use for Java):** https://hex-rays.com/ida-free **OR** https://auth.lol/ida/ (Cracked v9.X)
 **Java Opcode List:** https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions OR https://www.coley.software/Recaf-documentation/use-bytecode-list.html <br/>
 
 ### How to Contribute  
@@ -31,10 +43,8 @@ All challenges have been carefully reviewed and vetted to ensure they are safe t
 ### Credits  
 - **3000IQPlay**: Doing all the work
 - **Xenoware**: Syracuse Jar
-- **Ykale**: Wing & Xyla Jar
+- **Ykela**: Wing & Xyla Jar
 - **Labas339**: Litka files
 - **JerkerX**: Flap files
-
-### TODO:
-- Add VegaLine (Simplified)
+- **TwoNick**: [Virgin V4](https://github.com/WalmartSolutions/MC-Crackmes/tree/main/virgin_v4) crackme
 ---  

@@ -18,7 +18,7 @@
 ---
 
 ## 🛠️ Setup Instructions  
-1. **Install Flap**.  
+1. **Install VegaLine**.  
 2. Place the VegaLine folder in your `versions` folder.  
 3. Launch Minecraft with VegaLine.
 

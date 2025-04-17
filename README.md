@@ -33,7 +33,7 @@ All challenges have been carefully reviewed and vetted to ensure they are safe t
 
 ### Useful Starting Tools & Documents
 **Recaf - Bytecode editor:** https://github.com/Col-E/Recaf-Launcher <br/>
-**IDA (Pro) - Advanced editor (Do NOT use for Java):** https://hex-rays.com/ida-free **OR** https://auth.lol/ida/ (Cracked v9.X)
+**IDA (Pro) - Advanced editor (Do NOT use for Java):** https://hex-rays.com/ida-free **OR** https://auth.lol/ida/ (Cracked v9.X) <br/>
 **Java Opcode List:** https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions OR https://www.coley.software/Recaf-documentation/use-bytecode-list.html <br/>
 
 ### How to Contribute  

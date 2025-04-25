@@ -1,7 +1,7 @@
 <h1 align="center">Virgin V4 Crackme</h1>
 
 <p align="center">
-  <strong>A not so beginner-friendly reverse engineering challenge for Minecraft 1.21.4 (Fabric). Uses JNIC but you will be shown full tutorial on how to defeat it.</strong>
+  <strong>An intermediary reverse engineering challenge for Minecraft 1.21.4 (Fabric). Uses JNIC but you will be shown full tutorial on how to defeat it.</strong>
 </p>
 
 ---

@@ -20,13 +20,13 @@
 ---
 
 ## 🛠️ Setup Instructions  
-1. **Install Fabric** for 1.21/1.  
+1. **Install Fabric** for 1.21.  
 2. Place the client JAR in your `mods` folder.  
 3. Launch Minecraft with Fabric.
 
 **Verification:**  
 - 🏆 Success: Client fully loads into game without errors.  
-- 🔒 Failure: Closes/Crashes your game.  
+- 🔒 Failure: Crashes your game.
 
 **Protection:**  
 - 🧬 Obfuscation: ✅ Skidfuscator
@@ -39,14 +39,14 @@
 <summary><strong>🚩 1st Hint</strong></summary>  
 
 1. **Auth package name:**  
-   - The auth package is called `Game`.
+   - The auth package contains the word `Game`.
 </details>  
 
 <details>  
 <summary><strong>🚩 2nd Hint</strong></summary>  
 
 2. **What method to look for:**  
-   - Look for `System.exit` in the bytecode of certain classes.
+   - Look for `System.exit` references.
 
 </details>  
 

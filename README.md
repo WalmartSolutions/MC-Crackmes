@@ -42,7 +42,7 @@ All challenges have been carefully reviewed and vetted to ensure they are safe t
 
 ### Credits  
 - **3000IQPlay**: Doing all the work
-- **Ykela**: Wing, Xyla & Krypton Jar
+- **Ykela**: Wing, Xyla & Krypton Jar + Scrim crackme
 - **TwoNick**: [Virgin V4](https://github.com/WalmartSolutions/MC-Crackmes/tree/main/virgin%20v4) crackme
 - **Xenoware**: Syracuse Jar
 - **Labas339**: Litka files

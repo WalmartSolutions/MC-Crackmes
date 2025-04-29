@@ -39,7 +39,7 @@
 <summary><strong>🚩 1st Hint</strong></summary>  
 
 1. **Check package/class names:**  
-   - This client does NOT contains package / class renaming, so you can find the auth class easily.
+   - Auth package is called `Game`.
 </details>  
 
 <details>  

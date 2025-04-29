@@ -5,10 +5,10 @@
 </p>
 
 ---
-### Download: https://workupload.com/file/9Wavvvdht2B
+### Download: https://workupload.com/file/Z6nR2ujeWMz
 
 ## 📌 Basic Information  
-- **Minecraft Version:** `1.21/1`  
+- **Minecraft Version:** `1.21`  
 - **Loader:** `Fabric`  
 - **Difficulty:** `1.5/10` (Beginner)  
 - **Required JVM Args:** `N/A`   
@@ -38,15 +38,16 @@
 <details>  
 <summary><strong>🚩 1st Hint</strong></summary>  
 
-1. **Check package/class names:**  
-   - Auth package is called `Game`.
+1. **Auth package name:**  
+   - The auth package is called `Game`.
 </details>  
 
 <details>  
 <summary><strong>🚩 2nd Hint</strong></summary>  
 
-2. **Closes the game:**  
-   - Client CLOSES your game, not crashes.
+2. **What method to look for:**  
+   - Look for `System.exit` in the bytecode of certain classes.
+
 </details>  
 
 ---

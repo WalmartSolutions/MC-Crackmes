@@ -49,4 +49,7 @@ All challenges have been carefully reviewed and vetted to ensure they are safe t
 - **ZKM**: Biggie files
 - **JerkerX**: Flap files
 - **Ugin**: Valiant Jar
+
+### TODO:
+- Dimasik crackme
 ---  

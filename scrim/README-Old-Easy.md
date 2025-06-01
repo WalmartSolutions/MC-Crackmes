@@ -5,15 +5,17 @@
 </p>
 
 ---
-### Download: https://workupload.com/file/bVeNydb7dkN
+### Download: https://workupload.com/file/Z6nR2ujeWMz
 
 ## 📌 Basic Information  
 - **Minecraft Version:** `1.21`  
 - **Loader:** `Fabric`  
-- **Difficulty:** `2.0/10` (Beginner)  
+- **Difficulty:** `1.5/10` (Beginner)  
 - **Required JVM Args:** `N/A`   
 - **Required Mods:**  
   - [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.21)
+  
+- **Note: This crackme makes connections to the original Auth Site!!!**
 
 ---
 
@@ -27,7 +29,7 @@
 - 🔒 Failure: Crashes your game.
 
 **Protection:**  
-- 🧬 Obfuscation: ✅ J2CC (Native Obfuscator)
+- 🧬 Obfuscation: ✅ Skidfuscator
 - ⏰ Verification Timing: Initialization
 
 ---
@@ -36,15 +38,15 @@
 <details>  
 <summary><strong>🚩 1st Hint</strong></summary>  
 
-1. **Finding natived classes:**  
-   - Check what is natived. You can check by checking references for `j2cc/Loader` class.
+1. **Auth package name:**  
+   - The auth package contains the word `Game`.
 </details>  
 
 <details>  
 <summary><strong>🚩 2nd Hint</strong></summary>  
 
-2. **What could possibly be natived?:**  
-   - Since Scrim is a skid of [Argon](https://github.com/LvStrnggg/argon), you can easily find what is natived and just recreate the part, without needing to touch the Native file. Once you recreate it, you can remove all the native methods along with the  native files.
+2. **What method to look for:**  
+   - Look for `System.exit` references.
 
 </details>  
 

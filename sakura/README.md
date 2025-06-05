@@ -14,6 +14,8 @@
 - **Required JVM Args:** `N/A`
 - **Required Mods:**  
   - [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.20.4)
+  
+ - **Note: This crackme makes connections to the original Auth Site!!!**
 
 ---
 
@@ -45,11 +47,11 @@
 
 2. **"This is not a boolean auth...":**
    - Focus on...
-		```
+		```java
 		sakurasakurkaef info = new sakurasakurkaef(license, user, expiry);
 		onResult.accept(true, info);
 		```
-	All parameters are `Strings`. Set in any values. and make sure the `onResult.accept` has the "true" value in the first param.
+		All parameters are `Strings`. Set in any values. and make sure the `onResult.accept` has the "true" value in the first param.
 </details>
 
 ---
